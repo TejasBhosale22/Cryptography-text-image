@@ -7,9 +7,9 @@
 # Text Cryptography
 - Cryptography is the process of converting between readable text, called plaintext, and an unreadable form, called ciphertext.
 - This occurs as follows:
-  The sender converts the plaintext message to ciphertext. This part of the process is called encryption (sometimes encipherment ).
-  The ciphertext is transmitted to the receiver.
-  The receiver converts the ciphertext message back to its plaintext form. This part of the process is called decryption (sometimes decipherment ).
+  - The sender converts the plaintext message to ciphertext. This part of the process is called encryption (sometimes encipherment ).
+  - The ciphertext is transmitted to the receiver.
+  - The receiver converts the ciphertext message back to its plaintext form. This part of the process is called decryption (sometimes decipherment ).
 
 # Image Cryptography
 - In this image cryptographt images encrypts and the result is in binary numbers.
